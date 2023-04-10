@@ -9,7 +9,7 @@ I currently use...
 <div>
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"> ⠀
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png">⠀
-    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/800px-Lua-Logo.svg.png">⠀
+    <img height="50" src="https://cdn.discordapp.com/attachments/982666088544354334/1094795407168655461/199_Sem_Titulo_20230409222445.png">⠀
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1200px-Android_logo_2019_%28stacked%29.svg.png">
 </div>
 <br/>
